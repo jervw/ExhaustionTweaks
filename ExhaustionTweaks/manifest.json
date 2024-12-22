@@ -1,0 +1,10 @@
+{
+  "Name": "ExhaustionTweaks",
+  "Author": "Jervw",
+  "Version": "0.0.1",
+  "Description": "Tweaks to exhaustion mechanics",
+  "UniqueID": "Jervw.ExhaustionTweaks",
+  "EntryDll": "ExhaustionTweaks.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
